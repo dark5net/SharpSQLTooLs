@@ -5,3 +5,10 @@ C:\Users\h4ck\Desktop\0.ProgramsMe\SharpSQLTools-master\SharpSQLTools\obj\Debug\
 C:\Users\h4ck\Desktop\0.ProgramsMe\SharpSQLTools-master\SharpSQLTools\obj\Debug\SharpSQLTools.exe
 C:\Users\h4ck\Desktop\0.ProgramsMe\SharpSQLTools-master\SharpSQLTools\obj\Debug\SharpSQLTools.pdb
 C:\Users\h4ck\Desktop\0.ProgramsMe\SharpSQLTools-master\SharpSQLTools\obj\Debug\SharpSQLTools.csprojAssemblyReference.cache
+C:\Users\h4ck\Documents\GitHub\SharpSQLTooLs\SharpSQLTools\bin\Debug\SharpSQLTools.exe.config
+C:\Users\h4ck\Documents\GitHub\SharpSQLTooLs\SharpSQLTools\bin\Debug\SharpSQLTools.exe
+C:\Users\h4ck\Documents\GitHub\SharpSQLTooLs\SharpSQLTools\bin\Debug\SharpSQLTools.pdb
+C:\Users\h4ck\Documents\GitHub\SharpSQLTooLs\SharpSQLTools\obj\Debug\SharpSQLTools.csprojAssemblyReference.cache
+C:\Users\h4ck\Documents\GitHub\SharpSQLTooLs\SharpSQLTools\obj\Debug\SharpSQLTools.csproj.CoreCompileInputs.cache
+C:\Users\h4ck\Documents\GitHub\SharpSQLTooLs\SharpSQLTools\obj\Debug\SharpSQLTools.exe
+C:\Users\h4ck\Documents\GitHub\SharpSQLTooLs\SharpSQLTools\obj\Debug\SharpSQLTools.pdb
